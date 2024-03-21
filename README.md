@@ -13,7 +13,7 @@
 ## 📢 Updates
 :fire: Last Updated 2024.03.21
 
-- **2024.3.21**: Added 9 papers of 1.1.1.1 Supervised Learning
+- **2024.3.21**: Added 8 papers of 1.1.1.1 Supervised Learning
 
 
 ## <a name="1">1.Fake News Detection(FND)(虚假新闻检测)</a>
@@ -33,4 +33,7 @@
 |**ENDEF**|**Generalizing to the Future: Mitigating Entity Bias in Fake News Detection**|SIGIR2022|[paper](https://arxiv.org/pdf/2204.09484.pdf)|[code](https://github.com/ICTMCG/ENDEF-SIGIR2022)|single GPU|
 |**ECML**|**Early Detection of Fake News with Multi-source Weak Social Supervision**|ECML2021|[paper](https://arxiv.org/pdf/2004.01732.pdf)|[code](https://github.com/microsoft/MWSS)|>=1 GPU|
 |**MDEFND**|**Mining Dual Emotion for Fake News Detection**|ECML2021|[paper](https://arxiv.org/pdf/2004.01732.pdf)|[TensorFlow code](https://github.com/RMSnow/WWW2021)|idk|
-|**MDEFND**|**Mining Dual Emotion for Fake News Detection**|ECML2021|[paper](https://arxiv.org/pdf/2004.01732.pdf)|[TensorFlow code](https://github.com/RMSnow/WWW2021)|idk|
+
+
+## Acknowledgment
+This repo is heavily based on [Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) AND [Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models), we sincerely appreciate their wonderful work :)
